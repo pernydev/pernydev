@@ -38,9 +38,3 @@ I am a young full-stack developer with 6 years of experience in the field. Throu
 ### Socials
                   
 <p align="left"> <a href="https://discord.com/users/740158789268799551" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pernydev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/pernydev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pernydev&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
