@@ -6,8 +6,7 @@ Full-stack developer and designer.
 
 I am a young full-stack developer with 6 years of experience in the field. Throughout my career, I have worked on numerous projects for clients, developing and implementing custom solutions to meet their specific needs.
 
-*   🌍  I'm based in Espoo, Finland
-*   🚀  I'm currently working on [RenderZone](http://renderzone.me)
+*   🌍  I'm based in Helsinki, Finland
 
 ### Skills 
 <p align="left">
